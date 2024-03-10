@@ -4,6 +4,12 @@ A running log of things I'm learning to build strong core software engineering s
 
 ## Core Skills
 
+### Software Engineering and Project Management
+
+| Resource                                                                             | Progress |
+| ------------------------------------------------------------------------------------ | -------- |
+| [Book: The Mythical Man-month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) | ✓        |
+
 ### Data Structures and Algorithms
 
 | Resource                                                                                                      | Progress |
@@ -42,5 +48,3 @@ A running log of things I'm learning to build strong core software engineering s
 | [Book: The go programming language book](https://www.gopl.io/)                                                                           |          |
 | [Book: Learning go: An idiomatic apporach to Real-World go programming](https://www.oreilly.com/library/view/learning-go/9781492077206/) |          |
 | [Book: Writing a compiler in Go](https://compilerbook.com/)                                                                              |          |
-# learning
-# learning
