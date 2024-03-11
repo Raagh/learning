@@ -10,6 +10,15 @@ A running log of things I'm learning to build strong core software engineering s
 | ------------------------------------------------------------------------------------ | -------- |
 | [Book: The Mythical Man-month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) | ✓        |
 
+### Backend and System Design
+
+| Resource                                                                                                                                | Progress |
+| --------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Book: Designing Data-intesive applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) |          |
+| [MIT: 6.824 Distributed Systems](http://nil.csail.mit.edu/6.824/2020/schedule.html/)                                                    |          |
+| [MIT: Concurrent and Distributed systems](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/)                                           |          |
+| [Book: Clean Architecture](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)                                    |          |
+
 ### Data Structures and Algorithms
 
 | Resource                                                                                                      | Progress |
@@ -28,23 +37,14 @@ A running log of things I'm learning to build strong core software engineering s
 | [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) |          |
 | [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)                       |          |
 
-### Backend and System Design
-
-| Resource                                                                                                                                | Progress |
-| --------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [Book: Designing Data-intesive applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) |          |
-| [MIT: 6.824 Distributed Systems](http://nil.csail.mit.edu/6.824/2020/schedule.html/)                                                    |          |
-| [MIT: Concurrent and Distributed systems](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/)                                           |          |
-| [Book: Clean Architecture](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)                                    |          |
-
 ## Technical Skills (Libraries/Frameworks/Tools)
 
 ### Golang
 
 | Resource                                                                                                                                 | Progress |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [Book: Writing an interpreter in Go](https://interpreterbook.com/)                                                                       |          |
 | [Intro: A tour of Go](https://go.dev/tour/welcome/1)                                                                                     |          |
+| [Book: Writing an interpreter in Go](https://interpreterbook.com/)                                                                       |          |
 | [Book: The go programming language book](https://www.gopl.io/)                                                                           |          |
 | [Book: Learning go: An idiomatic apporach to Real-World go programming](https://www.oreilly.com/library/view/learning-go/9781492077206/) |          |
 | [Book: Writing a compiler in Go](https://compilerbook.com/)                                                                              |          |
