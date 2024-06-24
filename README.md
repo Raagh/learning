@@ -4,11 +4,17 @@ A running log of things I'm learning to build strong core software engineering s
 
 ## Core Skills
 
-### Software Engineering and Project Management
+### Software Engineering
 
 | Resource                                                                             | Progress |
 | ------------------------------------------------------------------------------------ | -------- |
 | [Book: The Mythical Man-month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) | ✓        |
+
+### Computer Science
+
+| Resource                                                                     | Progress |
+| ---------------------------------------------------------------------------- | -------- |
+| [Book: The Imposter's Handbook](https://bigmachine.io/courses/imposter-vide) |          |
 
 ### Backend and System Design
 
@@ -23,19 +29,17 @@ A running log of things I'm learning to build strong core software engineering s
 
 | Resource                                                                                                      | Progress |
 | ------------------------------------------------------------------------------------------------------------- | -------- |
+| [Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)     |          |
+| [Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513) |          |
 | [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)                                |          |
 | [Book: Cracking the coding interview](https://www.crackingthecodinginterview.com/resources.html)              |          |
 | [Book: The Tech Resume Inside Out](https://thetechresume.com)                                                 |          |
-| [Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)     |          |
-| [Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513) |          |
 
 ### Linux & Command Line
 
 | Resource                                                                                              | Progress |
 | ----------------------------------------------------------------------------------------------------- | -------- |
 | [MIT: The Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) |          |
-| [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) |          |
-| [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)                       |          |
 
 ## Technical Skills (Libraries/Frameworks/Tools)
 
@@ -45,6 +49,7 @@ A running log of things I'm learning to build strong core software engineering s
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [Intro: A tour of Go](https://go.dev/tour/welcome/1)                                                                                     |          |
 | [Book: Writing an interpreter in Go](https://interpreterbook.com/)                                                                       |          |
+| [Book: Distributed services with Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/)                                     |          |
 | [Book: The go programming language book](https://www.gopl.io/)                                                                           |          |
 | [Book: Learning go: An idiomatic apporach to Real-World go programming](https://www.oreilly.com/library/view/learning-go/9781492077206/) |          |
 | [Book: Writing a compiler in Go](https://compilerbook.com/)                                                                              |          |
