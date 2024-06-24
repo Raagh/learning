@@ -49,7 +49,7 @@ A running log of things I'm learning to build strong core software engineering s
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [Intro: A tour of Go](https://go.dev/tour/welcome/1)                                                                                     |          |
 | [Book: Writing an interpreter in Go](https://interpreterbook.com/)                                                                       |          |
+| [Book: Writing a compiler in Go](https://compilerbook.com/)                                                                              |          |
 | [Book: Distributed services with Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/)                                     |          |
 | [Book: The go programming language book](https://www.gopl.io/)                                                                           |          |
 | [Book: Learning go: An idiomatic apporach to Real-World go programming](https://www.oreilly.com/library/view/learning-go/9781492077206/) |          |
-| [Book: Writing a compiler in Go](https://compilerbook.com/)                                                                              |          |
