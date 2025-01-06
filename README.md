@@ -30,8 +30,8 @@ A running log of things I'm learning to build strong core software engineering s
 | Resource                                                                                                      | Progress |
 | ------------------------------------------------------------------------------------------------------------- | -------- |
 | [Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)     |          |
-| [Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513) |          |
 | [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)                                |          |
+| [Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513) |          |
 | [Book: Cracking the coding interview](https://www.crackingthecodinginterview.com/resources.html)              |          |
 | [Book: The Tech Resume Inside Out](https://thetechresume.com)                                                 |          |
 
