@@ -48,6 +48,7 @@ A running log of things I'm learning to build strong core software engineering s
 | Resource                                                                                                                                 | Progress |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [Intro: Exercism Go Learning Track](https://exercism.org/tracks/go/concepts)                                                             | ✓        |
+| [Gophercises courses](https://gophercises.com/)                                                                                          |          |
 | [Intro: Go by examples](https://gobyexample.com/)                                                                                        |          |
 | [Intro: A tour of Go](https://go.dev/tour/welcome/1)                                                                                     |          |
 | [Book: Writing an interpreter in Go](https://interpreterbook.com/)                                                                       |          |
