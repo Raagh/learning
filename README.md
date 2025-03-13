@@ -29,8 +29,8 @@ A running log of things I'm learning to build strong core software engineering s
 
 | Resource                                                                                                      | Progress |
 | ------------------------------------------------------------------------------------------------------------- | -------- |
-| [Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)     |          |
 | [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)                                |          |
+| [Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)     |          |
 | [Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513) |          |
 | [Book: Cracking the coding interview](https://www.crackingthecodinginterview.com/resources.html)              |          |
 | [Book: The Tech Resume Inside Out](https://thetechresume.com)                                                 |          |
@@ -48,9 +48,9 @@ A running log of things I'm learning to build strong core software engineering s
 | Resource                                                                                                                                 | Progress |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [Intro: Exercism Go Learning Track](https://exercism.org/tracks/go/concepts)                                                             | ✓        |
-| [Gophercises courses](https://gophercises.com/)                                                                                          |          |
-| [Intro: Go by examples](https://gobyexample.com/)                                                                                        |          |
-| [Intro: A tour of Go](https://go.dev/tour/welcome/1)                                                                                     |          |
+| [Course: Gophercises](https://gophercises.com/)                                                                                          | ✓        |
+| [Intro: Go by example](https://gobyexample.com/)                                                                                         | ✓        |
+| [Intro: A tour of Go](https://go.dev/tour/welcome/1)                                                                                     | ✓        |
 | [Book: Writing an interpreter in Go](https://interpreterbook.com/)                                                                       |          |
 | [Book: Writing a compiler in Go](https://compilerbook.com/)                                                                              |          |
 | [Book: Distributed services with Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/)                                     |          |
