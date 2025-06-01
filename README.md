@@ -20,6 +20,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 | Resource                                                                                                                                | Progress |
 | --------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Book: Foundations of Scalable Systems](https://www.oreilly.com/library/view/foundations-of-scalable/9781098106058/)                    |          |
 | [Book: Designing Data-intesive applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) |          |
 | [MIT: 6.824 Distributed Systems](http://nil.csail.mit.edu/6.824/2020/schedule.html/)                                                    |          |
 | [MIT: Concurrent and Distributed systems](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/)                                           |          |
@@ -30,7 +31,6 @@ A running log of things I'm learning to build strong core software engineering s
 | Resource                                                                                                      | Progress |
 | ------------------------------------------------------------------------------------------------------------- | -------- |
 | [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)                                |          |
-| [Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)     |          |
 | [Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513) |          |
 | [Book: Cracking the coding interview](https://www.crackingthecodinginterview.com/resources.html)              |          |
 | [Book: The Tech Resume Inside Out](https://thetechresume.com)                                                 |          |
@@ -54,5 +54,4 @@ A running log of things I'm learning to build strong core software engineering s
 | [Book: Writing an interpreter in Go](https://interpreterbook.com/)                                                                       |          |
 | [Book: Writing a compiler in Go](https://compilerbook.com/)                                                                              |          |
 | [Book: Distributed services with Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/)                                     |          |
-| [Book: The go programming language book](https://www.gopl.io/)                                                                           |          |
 | [Book: Learning go: An idiomatic apporach to Real-World go programming](https://www.oreilly.com/library/view/learning-go/9781492077206/) |          |
